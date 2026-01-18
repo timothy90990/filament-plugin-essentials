@@ -38,7 +38,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BezhanSalleh\\PluginEssentials\\": "src/"
+            "timothy90990\\PluginEssentials\\": "src/"
         }
     },
     "autoload-dev": {
